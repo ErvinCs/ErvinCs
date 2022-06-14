@@ -3,9 +3,9 @@
 ### Featured Projects
 * <a href="https://github.com/ErvinCs/ivy-game-engine">     Ivy Game Engine </a>
 * <a href="https://github.com/ErvinCs/GGEngine">            GGEngine </a>
-* <a href="https://github.com/ErvinCs/kb-gesture-detector"> Android Gesture Capture </a>
 * <a href="https://github.com/ErvinCs/mouse-tracker">       Mouse Tracker </a>
 * <a href="https://github.com/ErvinCs/CSUBB">               University Work </a>
+<!-- * <a href="https://github.com/ErvinCs/kb-gesture-detector"> Android Gesture Capture </a> -->
 
 ### Tools
 <img align="left" alt="C" width="26px" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/c.svg" />
