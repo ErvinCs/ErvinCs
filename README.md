@@ -13,7 +13,7 @@
 <img align="left" alt="C++" width="26px" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/cpp.svg" />
 <img align="left" alt="C#" width="26px" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/csharp.svg" />
 <img align="left" alt="Java" width="26px" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/java.svg" />
-<img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/python.svg" />
+<!-- <img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/python.svg" /> -->
 <img align="left" alt="Spring" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original.svg" />
 <img align="left" alt="Unity" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/unity/unity-original.svg" />
 <img align="left" alt="OpenGL" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/opengl/opengl-original.svg" />
