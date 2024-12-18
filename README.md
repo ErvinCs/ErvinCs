@@ -3,7 +3,7 @@
 ### Featured Projects
 * <a href="https://github.com/ErvinCs/ivy-game-engine">     Ivy Game Engine </a>
 * <a href="https://github.com/ErvinCs/GGEngine">            GGEngine </a>
-* <a href="https://play.google.com/store/apps/details?id=com.dev.jackdaw.GoTRandomizer"> A Game of Thrones Randomizer </a>
+* <a href="https://devjackdaw.itch.io/a-game-of-thrones-randomizer"> A Game of Thrones Randomizer </a>
 * <a href="https://github.com/ErvinCs/mouse-tracker">       Mouse Tracker </a>
 * <a href="https://github.com/ErvinCs/CSUBB">               University Work </a>
 <!-- * <a href="https://github.com/ErvinCs/kb-gesture-detector"> Android Gesture Capture </a> -->
